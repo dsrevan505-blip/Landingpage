@@ -43,7 +43,7 @@ body{
 }
 
 .page1{
-    background-image:img src=url(img/344.jpg);
+    background-image:img src=url(../img/344.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -140,7 +140,7 @@ img{
     font-size: 20px;
 }
 .main3{
-    background-image: url(img/bakso.avif);
+    background-image: url(../img/bakso.avif);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -162,5 +162,6 @@ img{
     margin-top: 30px;
 
 }
+
 
 
